@@ -1,0 +1,10 @@
+C:\Users\Renard\Desktop\rbootimg\obj\Debug\rbootimg.csprojResolveAssemblyReference.cache
+C:\Users\Renard\Desktop\rbootimg\bin\Debug\rbootimg.exe
+C:\Users\Renard\Desktop\rbootimg\bin\Debug\rbootimg.pdb
+C:\Users\Renard\Desktop\rbootimg\obj\Debug\rbootimg.exe
+C:\Users\Renard\Desktop\rbootimg\obj\Debug\rbootimg.pdb
+E:\rbootimg\obj\Debug\rbootimg.exe
+E:\rbootimg\obj\Debug\rbootimg.pdb
+E:\rbootimg\bin\Debug\rbootimg.exe
+E:\rbootimg\bin\Debug\rbootimg.pdb
+E:\rbootimg\obj\Debug\rbootimg.csprojResolveAssemblyReference.cache

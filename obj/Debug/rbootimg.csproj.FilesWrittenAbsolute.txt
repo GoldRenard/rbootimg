@@ -1,0 +1,4 @@
+/android/Projects/rbootimg/bin/Debug/rbootimg.exe.mdb
+/android/Projects/rbootimg/bin/Debug/rbootimg.exe
+/android/Projects/rbootimg/obj/Debug/rbootimg.exe
+/android/Projects/rbootimg/obj/Debug/rbootimg.exe.mdb

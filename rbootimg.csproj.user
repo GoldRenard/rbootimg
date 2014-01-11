@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Debug|AnyCPU'">
+    <StartArguments>-kernel "D:\boot_unpacked\zImage" -ramdisk "D:\boot_unpacked\ramdisk.gz" -output "D:\new_boot.img" -mtk_force</StartArguments>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Release|AnyCPU'">
+    <StartArguments>-pack "E:\_Tools\MiniCygwin\home\recovery" -output "E:\_Tools\MiniCygwin\home\new_recovery.img"</StartArguments>
+  </PropertyGroup>
+</Project>
